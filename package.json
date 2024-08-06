@@ -1,0 +1,18 @@
+{
+  "name": "@jazim/ts-config",
+  "description": "TypeScript Configurations for different runtimes & libraries",
+  "version": "1.0.0",
+  "keywords": [
+    "typescript",
+    "config",
+    "typescript config",
+    "tsconfig.json",
+    "javascript"
+  ],
+  "author": "Jazim Abbas",
+  "license": "MIT",
+  "homepage": "https://github.com/jazimabbas/ts-config",
+  "repository": {
+    "url": "https://github.com/jazimabbas/ts-config"
+  }
+}
