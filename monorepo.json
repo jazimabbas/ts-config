@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Monorepo",
+  "extends": "./base.json",
+  "compilerOptions": {
+    "declaration": true,
+    "composite": true,
+    "sourceMap": true,
+    "declarationMap": true
+  }
+}
